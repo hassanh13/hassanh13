@@ -8,16 +8,13 @@ Hi, I’m Hassan, and I’m from Northwest London. I’m currently completing a 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hhaji0752@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
 
 
 # 💻 Tech Stack:
-<a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
+<a href="https://app.powerbi.com/home?experience=power-bi" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=XZfQhFwZm1qP&format=png&color=000000" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
 
 [![Excel Icon](https://img.icons8.com/color/48/microsoft-excel-2019--v1.png)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
- 
-
 
 <a href= https://public.tableau.com/app/profile/hassan.haji/vizzes target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;
 
